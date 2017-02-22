@@ -1,8 +1,8 @@
-import java.util.Random;
+﻿import java.util.Random;
 import java.util.Scanner;
 
 /**
- * Created by Роман on 21.02.2017.
+ * Created by Alex on 21.02.2017.
  *
  */
 public class Main {
@@ -18,7 +18,6 @@ public class Main {
         randomS();
 
         for(int i = 0; i < 3;) {
-//            System.out.print("= ");
             while (true) {
 
                 mnm = sc.nextLine();
